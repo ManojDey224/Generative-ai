@@ -1,6 +1,6 @@
 I'd be glad to help you craft a comprehensive and informative README file for your LLAMA 2 fine-tuning project on GitHub. Here's a template incorporating insights from the provided feedback and addressing potential shortcomings:
 
-Title: Fine-tuning LLAMA 2 for [Your Specific Task]
+Title: Fine-tuning LLAMA 2, open_ai for [Your Specific Task]
 
 Description:
 
